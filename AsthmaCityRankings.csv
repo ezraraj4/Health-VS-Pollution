@@ -1,0 +1,101 @@
+Rank,City,State,Overall Score,Estimated Asthma Prevalence,Crude Death Rate for Asthma,ED Visits for Asthma
+1,Allentown,PA,100.00,Worse Than Average,Average,Worse Than Average
+2,Rochester,NY,92.98,Worse Than Average,Average,Average
+3,Detroit,MI,88.81,Worse Than Average,Worse Than Average,Worse Than Average
+4,Springfield,MA,87.56,Worse Than Average,Worse Than Average,Average
+5,Philadelphia,PA,86.72,Worse Than Average,Worse Than Average,Worse Than Average
+6,Cleveland,OH,83.24,Worse Than Average,Worse Than Average,Worse Than Average
+7,Lakeland,FL,81.41,Worse Than Average,Average,Worse Than Average
+8,Baltimore,MD,76.99,Average,Worse Than Average,Average
+9,Charleston,SC,74.68,Worse Than Average,Average,Worse Than Average
+10,Providence,RI,74.31,Worse Than Average,Average,Average
+11,Fresno,CA,71.89,Worse Than Average,Worse Than Average,Better Than Average
+12,Richmond,VA,71.47,Average,Worse Than Average,Worse Than Average
+13,Greenville,SC,69.60,Worse Than Average,Better Than Average,Average
+14,Harrisburg,PA,68.95,Worse Than Average,Average,Better Than Average
+15,Memphis,TN,68.44,Better Than Average,Worse Than Average,Worse Than Average
+16,Spokane,WA,68.17,Worse Than Average,Average,Average
+17,St. Louis,MO,68.11,Average,Worse Than Average,Average
+18,Poughkeepsie,NY,67.92,Worse Than Average,Average,Average
+19,New York,NY,67.91,Worse Than Average,Worse Than Average,Average
+20,Columbus,OH,67.06,Average,Average,Worse Than Average
+21,Phoenix,AZ,66.69,Worse Than Average,Average,Average
+22,Sacramento,CA,66.49,Worse Than Average,Average,Average
+23,Worcester,MA,65.66,Worse Than Average,Average,Average
+24,Washington,DC,63.79,Average,Worse Than Average,Average
+25,Syracuse,NY,63.60,Worse Than Average,Average,Better Than Average
+26,Albany,NY,63.31,Worse Than Average,Average,Better Than Average
+27,Tucson,AZ,63.07,Average,Worse Than Average,Average
+28,Dallas,TX,62.75,Average,Average,Worse Than Average
+29,Miami,FL,62.72,Average,Average,Average
+30,Columbia,SC,62.64,Average,Average,Average
+31,Virginia Beach,VA,62.07,Average,Better Than Average,Worse Than Average
+32,Nashville,TN,61.62,Worse Than Average,Average,Average
+33,Orlando,FL,61.55,Worse Than Average,Better Than Average,Average
+34,Omaha,NE,61.34,Average,Worse Than Average,Average
+35,Stockton,CA,61.27,Average,Average,Worse Than Average
+36,Hartford,CT,61.15,Worse Than Average,Worse Than Average,Better Than Average
+37,Cincinnati,OH,60.07,Average,Average,Average
+38,Las Vegas,NV,59.20,Average,Average,Average
+39,Dayton,OH,58.85,Average,Average,Worse Than Average
+40,Louisville,KY,58.28,Average,Better Than Average,Worse Than Average
+41,Toledo,OH,57.52,Average,Average,Average
+42,Jacksonville,FL,57.13,Better Than Average,Average,Worse Than Average
+43,Atlanta,GA,57.09,Average,Average,Average
+44,Greensboro,NC,56.76,Better Than Average,Average,Worse Than Average
+45,Pittsburgh,PA,56.57,Average,Average,Average
+46,Chattanooga,TN,56.40,Better Than Average,Worse Than Average,Average
+47,Minneapolis,MN,56.10,Average,Average,Better Than Average
+48,Jackson,MS,55.79,Average,Worse Than Average,Average
+49,Los Angeles,CA,55.53,Average,Average,Average
+50,San Diego,CA,55.12,Average,Better Than Average,Average
+51,Daytona Beach,FL,54.54,Average,Average,Average
+52,Akron,OH,54.31,Better Than Average,Average,Worse Than Average
+53,Chicago,IL,54.25,Average,Worse Than Average,Average
+54,Albuquerque,NM,54.13,Average,Average,Average
+55,New Orleans,LA,53.74,Better Than Average,Average,Worse Than Average
+56,Buffalo,NY,53.18,Average,Average,Average
+57,San Antonio,TX,52.43,Average,Average,Average
+58,Bridgeport,CT,52.41,Average,Average,Average
+59,Seattle,WA,52.18,Average,Average,Average
+60,Palm Bay,FL,51.99,Worse Than Average,Better Than Average,Better Than Average
+61,Indianapolis,IN,51.28,Average,Average,Average
+62,Raleigh,NC,50.33,Better Than Average,Better Than Average,Worse Than Average
+63,McAllen,TX,50.25,Worse Than Average,Better Than Average,Better Than Average
+64,San Francisco,CA,50.20,Average,Better Than Average,Average
+65,Kansas City,MO,49.63,Better Than Average,Average,Average
+66,Oklahoma City,OK,49.51,Better Than Average,Worse Than Average,Average
+67,Wichita,KS,49.46,Better Than Average,Average,Average
+68,El Paso,TX,49.42,Average,Better Than Average,Average
+69,Riverside,CA,49.29,Average,Better Than Average,Average
+70,Houston,TX,48.99,Average,Better Than Average,Average
+71,Sarasota,FL,47.97,Average,Average,Average
+72,Tampa,FL,47.64,Average,Better Than Average,Average
+73,Oxnard,CA,47.59,Average,Better Than Average,Average
+74,Boston,MA,47.48,Better Than Average,Worse Than Average,Average
+75,Baton Rouge,LA,47.29,Average,Better Than Average,Average
+76,Milwaukee,WI,47.15,Better Than Average,Worse Than Average,Average
+77,San Jose,CA,47.09,Average,Better Than Average,Average
+78,Bakersfield,CA,46.37,Average,Average,Average
+79,Ogden,UT,45.89,Better Than Average,Average,Better Than Average
+80,Cape Coral,FL,45.19,Average,Better Than Average,Better Than Average
+81,Grand Rapids,MI,43.76,Better Than Average,Better Than Average,Average
+82,Tulsa,OK,43.57,Average,Better Than Average,Better Than Average
+83,New Haven,CT,43.52,Better Than Average,Worse Than Average,Average
+84,Birmingham,AL,43.28,Better Than Average,Average,Average
+85,Denver,CO,43.26,Average,Better Than Average,Better Than Average
+86,Salt Lake City,UT,42.94,Better Than Average,Average,Average
+87,Augusta,GA,42.00,Better Than Average,Better Than Average,Worse Than Average
+88,Portland,OR,41.56,Better Than Average,Average,Better Than Average
+89,Austin,TX,41.24,Average,Better Than Average,Better Than Average
+90,Boise,ID,40.07,Average,Better Than Average,Better Than Average
+91,Durham,NC,38.77,Better Than Average,Average,Average
+92,Knoxville,TN,38.22,Better Than Average,Average,Average
+93,Charlotte,NC,37.35,Better Than Average,Average,Better Than Average
+94,Little Rock,AR,34.89,Better Than Average,Better Than Average,Average
+95,Colorado Springs,CO,32.78,Better Than Average,Average,Better Than Average
+96,Fayetteville,AR,32.61,Better Than Average,Better Than Average,Better Than Average
+97,Madison,WI,32.56,Better Than Average,Better Than Average,Average
+98,Winston-Salem,NC,30.54,Better Than Average,Average,Better Than Average
+99,Provo,UT,30.35,Better Than Average,Better Than Average,Better Than Average
+100,Des Moines,IA,27.15,Better Than Average,Better Than Average,Better Than Average
